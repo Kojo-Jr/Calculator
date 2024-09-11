@@ -1,5 +1,6 @@
 # Calculator
-![calculator ](https://github.com/user-attachments/assets/b1afced4-cab4-4930-9c54-ffb92f4b016b)
+![calculator ](https://github.com/user-attachments/assets/983ff377-dbd7-4e22-ad90-f0e3536947f2)
+
 
 # Credit:
 Thanks to Shahzana Ali for this amazing UI design
