@@ -15,7 +15,7 @@ import {
 const { width, height } = Dimensions.get("window");
 const isPortrait = height > width;
 export default function MainScreen() {
-  const [displayValue, setDisplayValue] = useState(false);
+  const [displayValue, setDisplayValue] = useState("0");
   const [firstValue, setFirstValue] = useState(null);
   const [operator, setOperator] = useState(null);
   const [isNextValue, setIsNextValue] = useState(false);
